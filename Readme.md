@@ -1,1 +1,1 @@
-This is a website dedicated to covid19.
+To view this website - https://rounak-ghosh.github.io/index2.html
