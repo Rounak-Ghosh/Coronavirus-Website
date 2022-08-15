@@ -1,1 +1,1 @@
-To view this website - https://rounak-ghosh.github.io/index2.html
+To view this website - https://rounak-ghosh.github.io/Coronavirus-Website/
